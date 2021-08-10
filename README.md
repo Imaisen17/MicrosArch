@@ -31,7 +31,7 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
   instance:
     hostname: localhost
-This module sharing all config from each services
+This module sharing all config to each services
 ###
 Download zipkin-server and open this jar with java -jar ...
 He will be able from http://localhost:9411/
