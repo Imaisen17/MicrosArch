@@ -37,5 +37,3 @@ Download zipkin-server and open this jar with java -jar ...
 He will be able from http://localhost:9411/
 This is logging service
 You can find more info in guide (header)
-
-
